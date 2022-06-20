@@ -33,10 +33,10 @@
     <img src="images/logo.jpg" alt="Logo" width="1280" height="400">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Word Parifier</h3>
 
   <p align="center">
-    project_description
+    A script to generate pairs of random words.
     <br />
     <a href="https://github.com/obverter/word-parifier"><strong>Explore the docs »</strong></a>
     <br />
@@ -82,9 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following:m/obverter, `word-parifier`, `obverter`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+I needed a list of random word pairs. So I wrote this. It ain't much, but it's not nothing.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
